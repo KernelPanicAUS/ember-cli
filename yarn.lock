@@ -483,12 +483,6 @@ braces@^1.8.2:
     preserve "^0.2.0"
     repeat-element "^1.1.2"
 
-broccoli-assembler@twokul/broccoli-assembler:
-  version "0.0.1"
-  resolved "https://codeload.github.com/twokul/broccoli-assembler/tar.gz/41247d6dfd3c214b929f2af76e5df901be31db58"
-  dependencies:
-    broccoli-merge-trees "^2.0.0"
-
 broccoli-babel-transpiler@^6.0.0:
   version "6.1.1"
   resolved "https://registry.yarnpkg.com/broccoli-babel-transpiler/-/broccoli-babel-transpiler-6.1.1.tgz#938f470e1ddb47047a77ef5e38f34c21de0e85a8"
@@ -2878,8 +2872,8 @@ lodash.keys@^3.0.0:
     lodash.isarray "^3.0.0"
 
 lodash.merge@^4.3.0, lodash.merge@^4.4.0, lodash.merge@^4.6.0:
-  version "4.6.0"
-  resolved "https://registry.yarnpkg.com/lodash.merge/-/lodash.merge-4.6.0.tgz#69884ba144ac33fe699737a6086deffadd0f89c5"
+  version "4.6.2"
+  resolved "https://registry.yarnpkg.com/lodash.merge/-/lodash.merge-4.6.2.tgz#558aa53b43b661e1925a0afdfa36a9a1085fe57a"
 
 lodash.omit@^4.1.0:
   version "4.5.0"
